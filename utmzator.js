@@ -1,4 +1,3 @@
-<script type="text/javascript">
 
   function getSetReff()
   {
@@ -150,6 +149,3 @@
 
 
   getSetReff();
-
-</script>
-
